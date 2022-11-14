@@ -1,1 +1,1 @@
-ABC
+Coi như nó chạy thẳng và đi đc 20cm nhé!!!!
