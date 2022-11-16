@@ -7,5 +7,5 @@ Số xung cần để đi được 1 quãng đường w (mm) được tính theo
 		Tong đó:
 			- S là số xung gia số cần tính(bước)
 			- w là quãng đường mong muốn (mm)
-			- d là đường kính của 1 bánh xe (mm)=125mm
+			- d là đường kính của 1 bánh xe (mm)=125mm.
 Để bánh xe đi thẳng 100cm thì số xung số S=144528
